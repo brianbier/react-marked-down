@@ -1,4 +1,8 @@
-# react-webpack-babel
+#React Application that allows you to write in markdown and then it displays it in regular HTML5
+
+
+
+#Set Up Instructions
 Simple React Webpack Babel Starter Kit
 
 Tired of complicated starters with 200MB of dependencies which are hard to understand and modify?
