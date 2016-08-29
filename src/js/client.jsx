@@ -1,7 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 import { render } from 'react-dom';
-import Markdown from './components/markdown';
+import Markdown from './components/changeText.jsx';
 
 class App extends React.Component {
   render() {
