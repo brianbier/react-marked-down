@@ -1,5 +1,7 @@
 #React Application that allows you to write in markdown and then it displays it in regular HTML5
 
+Completed. The application works on codepen just fine. I am not sure why it doesnt want to run on my localhost.
+Check out the codepen link here [React Markdown Text](https://codepen.io/brianbier/pen/BLBwjV?editors=0110)
 
 
 #Set Up Instructions
